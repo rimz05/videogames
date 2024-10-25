@@ -1,0 +1,61 @@
+/* Custom CSS for the Pricing Section */
+.pricing-section {
+    background: radial-gradient(circle at center, #0b0b28, #000);
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .pricing-title {
+    font-size: 48px;
+    margin: 20px;
+  }
+  
+  .pricing-subtitle {
+    font-size: 18px;
+    color: #ccc;
+    margin-bottom: 50px;
+  }
+  
+  .pricing-card {
+    background: radial-gradient(circle at center, #0b0b28, #000);
+    border: 1px solid #FFFFFF26;
+    border-radius: 12px;
+    padding: 10px;
+    justify-content: space-between;
+    transition: transform 0.2s ease-in-out;
+    height: 500px;
+  }
+  
+  .pricing-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .pricing-card h2 {
+    font-size: 32px;
+    color: #fff;
+  }
+  
+  .price {
+    font-size: 24px;
+    color: #a259ff;
+    margin-bottom: 20px;
+  }
+  
+  .feature-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .feature-list li {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  button.btn-light {
+    color: black;
+    background-color: #fff;
+    border-radius: 25px;
+    padding: 10px 30px;
+    font-weight: bold;
+  }
+  

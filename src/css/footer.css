@@ -1,0 +1,20 @@
+.fhead{
+    font-weight: 500;
+    font-size: 13px;
+    font-family: sans-serif;
+    line-height: 26px;
+}
+
+.text{
+        font-family: sans-serif;
+        line-height: 26px;
+        font-weight: 400;
+        font-size: 12px;
+        color: #FFFFFF80;
+        text-decoration: none;
+        
+    }
+
+.bgg{
+    background: radial-gradient(circle at center , #0b0b28, #000);
+}

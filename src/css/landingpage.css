@@ -1,0 +1,47 @@
+.landing-page {
+  background: radial-gradient(circle at center, #0b0b28, #000);
+  color: white;
+  height: 100vh;
+  padding: 100px 0;
+  position: relative;
+}
+
+.content {
+  margin-bottom: 50px;
+}
+
+.latest{
+  width: 291px;
+  padding: 8px;
+  height: 42px;
+}
+
+.latest-badge {
+  background-color: #a259ff;
+  padding: 5px 10px;
+  margin-bottom: 20px;
+  margin-right: 10px;
+  border-radius: 40px;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.highlight {
+  color: #a259ff;
+}
+
+
+.start-btn {
+  color: black;
+  background-color: white;
+  border-radius: 25px;
+  padding: 10px 30px;
+  font-weight: bold;
+}
+
+.laptop-image img {
+  max-width: 100%;
+}

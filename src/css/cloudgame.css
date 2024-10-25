@@ -1,0 +1,44 @@
+.cloud-gaming-section {
+  padding: 80px 20px;
+  background: radial-gradient(circle at center, #0b0b28, #000);
+  color: white;
+}
+
+.text-block {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.text-block h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.highlight {
+  color: #a259ff;
+}
+
+.features-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 18px;
+}
+
+.features-list li {
+  margin-bottom: 10px;
+  color: #ccc;
+}
+
+.big{
+  width: 90vh;
+  height: 60vh;
+  padding: 5px;
+}
+
+.small{
+  height: 60vh;
+  padding: 5px;
+}

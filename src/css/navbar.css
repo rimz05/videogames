@@ -1,0 +1,30 @@
+/* Custom Navbar Styles */
+.custom-navbar {
+  background-color: #03030C; 
+  border-bottom: 1px solid #FFFFFF26;
+}
+
+.navbar-brand img {
+  height: 40px; 
+}
+
+.navbar-nav .nav-link {
+  font-weight: 500;
+}
+
+.navbar-nav{
+  padding: 10px 20px;
+  border: 1px solid #FFFFFF26;
+}
+
+
+.join-btn {
+  background-color: #a259ff; 
+  padding: 5px 20px;
+  transition: background-color 0.3s ease;
+  font-weight: bold;
+}
+
+.join-btn:hover {
+  background-color: #9b3fe5; 
+}

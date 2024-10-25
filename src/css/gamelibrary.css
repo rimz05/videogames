@@ -1,0 +1,19 @@
+.container-library {
+  background: radial-gradient(circle at center, #0b0b28, #000);
+  padding: 50px;
+  color: white;
+}
+
+.library-title {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.img-fluid {
+  height: auto;
+  object-fit: cover;
+}
+
+.rounded-image {
+  border-radius: 15px;
+}
