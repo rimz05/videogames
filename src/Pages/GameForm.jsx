@@ -1,7 +1,7 @@
 import React from 'react';
 import '../css/gameform.css';
 
-const CloudGamingForm = () => {
+const GameForm = () => {
   return (
     <div className="container-fluid d-flex justify-content-center align-items-center vh-100 back">
       <div className="card text-center p-5 custom-card">
@@ -23,4 +23,4 @@ const CloudGamingForm = () => {
   );
 };
 
-export default CloudGamingForm;
+export default GameForm;

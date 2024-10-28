@@ -1,22 +1,15 @@
 import React from 'react'
-import Footer from './components/Footer'
-import GameForm from './Pages/GameForm'
-import Pricing from './Pages/Pricing'
-import LandingPage from './Pages/LandingPage'
-import Navbar from './components/Navbar'
-import CloudGame from './Pages/CloudGame'
-import GameLibrary from './Pages/GameLibrary'
+import HomePage from './finalpage/HomePage'
+import ContactPage from './finalpage/ContactPage'
+import AboutPage from './finalpage/AboutPage'
+
 
 const App = () => {
   return (
     <div>
-      <Navbar/>
-      <LandingPage/>
-      <CloudGame/>
-      <GameLibrary/>
-      <Pricing/>
-      <GameForm/>
-      <Footer/>
+      {/* <HomePage/> */}
+      {/* <ContactPage/> */}
+      <AboutPage/>
     </div>
   )
 }
