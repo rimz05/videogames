@@ -1,0 +1,45 @@
+.game-finder {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url('videogame.png') no-repeat center center fixed;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.7);
+    background-blend-mode: darken;
+    color: white;
+    text-align: center;
+}
+
+.heading {
+    font-size: 70px;
+    padding: 80px;
+}
+
+.highlighted {
+    color: #b33deb;
+}
+
+.categories {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 100px;
+    
+}
+
+.category-button {
+    padding: 10px 30px;
+}
+
+.search-bar {
+    width: 100%;
+    max-width: 500px;
+}
+
+.search-bar input {
+    color: white;
+    padding: 10px 20px;
+    border: 1px solid white;
+}
